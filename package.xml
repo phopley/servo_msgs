@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package format="2">
   <name>servo_msgs</name>
-  <version>0.1.2</version>
+  <version>1.0.0</version>
   <description>The servo_msgs package is for custom servo messages</description>
 
   <maintainer email="sleepyserver6@gmail.com">Philip Hopley</maintainer>

@@ -2,6 +2,10 @@
 Changelog for package servo_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Unreleased
+------------------
+* Deleted redundant message
+
 0.1.2 (2018-07-28)
 ------------------
 * Update to email address in xml file

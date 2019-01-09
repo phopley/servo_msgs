@@ -2,7 +2,7 @@
 Changelog for package servo_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Unreleased
+1.0.0 (2019-01-09)
 ------------------
 * Deleted redundant message
 
